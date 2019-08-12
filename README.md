@@ -3,4 +3,4 @@ I kurset Stjerner og Planeter skal i lave to projekter. Et projekt baseret Pytho
 
 For at kunne bruge disse programpakker skal i have instaleret Anaconda. Dette gøres ved:
 
-    1 Download og installere Anaconda med Python 3.7 herfra: [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
+1. Download og installere Anaconda med Python 3.7 herfra: [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/).
